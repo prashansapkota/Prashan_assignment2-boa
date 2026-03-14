@@ -1,0 +1,10 @@
+/starter-code/target/
+
+# macOS
+.DS_Store
+
+# Editor/IDE
+.idea/
+.vscode/
+*.swp
+*.swo
